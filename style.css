@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    border: 0;  
+    box-sizing: border-box; 
+}
+
+/* ******************** */
+/* NAVBAR */
+/* ******************** */
+.main {
+    display: flex;
+    margin-left: 136px;
+    width: 1200px;
+    /* justify-content: space-evenly; */
+}
+
+.container {
+    width: 1200px;
+}
+
+.menu {
+    background-color: black;
+    height: 75px;
+    width: 725px;
+    padding-left: 50px;
+    justify-content: center;
+    margin: 0 0 60px 135px;
+}
+
+.navbar {
+    color: whitesmoke;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* border: black 1px dashed; */
+    background-color: black;
+    width: 100px;
+}
+
+.network {
+    width: 200px;
+}
+
+.feed {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.feed h2 {
+    font-size: 30px;
+}
+
+/*Avatar Box Nolli LEFT*/ 
+.avatar {
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+    display: flex;
+    margin-right: 5px;
+}
+
+.usercircle {
+    margin: 25px;
+}
+
+.add {
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.box {
+    border: 2px solid black;
+    width: 500px;
+    padding: 36px;
+    margin-bottom: 23px;
+    margin-left: 17px;
+    height: 175px;;
+}
+
+.btn1 {
+    background-color: rgb(238, 225, 46);
+    color: black;
+    box-shadow: 4px 4px black;
+    margin-left: 25px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+span {
+    margin-left: 75px;
+}
+
+
+
+/* .right {
+    margin: 8px;
+} */
+
+
+
